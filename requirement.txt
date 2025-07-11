@@ -1,0 +1,7 @@
+praw
+bert-score
+langchain
+matplotlib
+openai
+python-dotenv
+langchain_community
