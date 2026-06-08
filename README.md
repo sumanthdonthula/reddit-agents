@@ -4,7 +4,7 @@ This project simulates a debate between two AI agents on the future of work in a
 
 ## Features
 
-* Automates debates between AI agents using OpenAI’s language model.
+* Automates debates between AI agents using OpenAI’s language models.
 * Posts debates to specified Reddit subreddits using PRAW (Python Reddit API Wrapper).
 * Simulates a back-and-forth exchange with customizable turn count and temperature.
 * Includes a moderator LLM to summarize and determine a winner.
