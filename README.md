@@ -72,4 +72,4 @@ Each debate is structured as:
 
 * A post on Reddit with a title and description
 * Sequential comments from each AI agent
-* A final moderator comment summarizing and evaluating the discussions
+* A final moderator comment summarizing and evaluating the discussion
